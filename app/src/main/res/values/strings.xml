@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="name">sem.com.sharedpreferences.name</string>
+    <string name="password">sem.com.sharedpreferences.password</string>
+</resources>
